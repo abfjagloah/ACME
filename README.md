@@ -21,8 +21,8 @@ $ conda activate acme
 $ cd unsupervised
 $ mkdir pth
 $ bash us_run.sh 0
-# where 0 is the GPU device id to use
 ```
+where 0 is the GPU device id to use
 ## Transfer Learning
 ### Prepare the Dataset
 ```
